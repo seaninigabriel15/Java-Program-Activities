@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class InputNumber {
 
-    public static void main(String[] artgs){
+    public static void main(String[] args){
 
         double a,b,sum;
         Scanner scan = new Scanner(System.in);
